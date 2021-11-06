@@ -1,10 +1,9 @@
 Olá ! Sou Giovanne Oliveira ,estudante de ADS.
 Atualmente não trabalho na area,
 estou estudando :
-Javascript,
-python,
-c# e
-React
+html,css,Javascript
+e
+React js
 😃😃
 
 
