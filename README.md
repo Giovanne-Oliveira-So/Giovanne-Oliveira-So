@@ -1,7 +1,7 @@
 
 
 
-## Oiii! Eu sou a Giovanne Oliveira 
+##  Eu sou a Giovanne Oliveira 
  <div>
   <a href="https://github.com/Giovanne-Oliveira-So">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanne-Oliveira-So&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
